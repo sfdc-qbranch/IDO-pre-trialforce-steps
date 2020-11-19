@@ -1,7 +1,7 @@
 {
-  "orgName": "kakermanis company",
+  "orgName": "IDO Pre Trialforce Steps",
   "edition": "Developer",
-  "features": ["HighVelocitySales","Chatbot","LiveMessage"],
+  "features": ["HighVelocitySales","Chatbot","LiveMessage", "HEALTHCLOUDUSER"],
   "settings": {
     "lightningExperienceSettings": {
         "enableS1DesktopEnabled": true
@@ -13,6 +13,9 @@
     },
     "mobileSettings": {
         "enableS1EncryptedStoragePref2": false
+    },
+    "industriesManufacturingSettings": {
+      "enableIndManufacturing": true
     }
   }
 }
