@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SalesAgreementSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actualsCalculationMode>Manual</actualsCalculationMode>
+    <displayedAgreementTermsMetrics>ActualQuantity,SalesPrice</displayedAgreementTermsMetrics>
+    <isOnlyApprovalProcessUsed>false</isOnlyApprovalProcessUsed>
+</SalesAgreementSettings>
