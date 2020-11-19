@@ -1,7 +1,15 @@
 # Q Industries - Pre-Trialforce Config Steps
 
 
-Required Setup and how to run (from command line)
+* Install using the Q Branch Industry Deployer
+
+Click on the following link and authenticate your org:
+
+Install via Industry Deployer - https://industry-deployer.herokuapp.com/byoo?template=https://github.com/sfdc-qbranch/IDO-pre-trialforce-steps
+
+
+
+* Required Setup and how to install manually (from command line)
 
 1. SalesforceDX CLI has been installed --> [How to Install](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm)
 2. You've pulled down this local repository and have opened a command prompt window with this project being your current directory
